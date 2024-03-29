@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rotaruriccardo
-- 👀 I’m interested in Gaming, Computers
-- 🌱 I’m currently learning Computer and Control Engineering
+- 👀 I’m interested in Gaming and Computers!
+- 🌱 I’m currently learning Computer and Control Engineering in Sapienza University, Rome
 - 📫 How to reach me E-Mail: rotaruriccardo@gmail.com
 
 <!---
