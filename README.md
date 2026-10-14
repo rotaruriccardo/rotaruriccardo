@@ -11,10 +11,6 @@ Neolaureato in **Ingegneria Informatica** presso La Sapienza di Roma con una pas
 
 ---
 
-### 💡 Di cosa mi occupo
-- 🔭 Sviluppo di piattaforme web e servizi con architettura MVC
-- ⚙️ Troubleshooting, gestione dati e supporto sistemistico
-- 🚀 Risoluzione di problemi complessi con approccio analitico e pulizia del codice
 
 ---
 
